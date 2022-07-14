@@ -68,7 +68,9 @@
 - 5.1 What is Github (07:40)
 - 5.2 Creating a Github Repository (07:10)
 - 5.3 Making Our First Commits (09:10)
-- 6 CLONING TIME
+
+# 6 CLONING TIME
+
 - 6.0 Introduction (06:15)
 - 6.1 Sign Up Screen part One (09:44)
 - 6.2 BEM (06:39)
